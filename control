@@ -1,0 +1,12 @@
+Author: ichitaso
+Maintainer: ichitaso
+Package: com.ichitaso.iconmute
+Name: IconMute
+Depends: firmware (>= 11.0), mobilesubstrate
+Section: Tweaks
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Mute notifications using the Force touch menu
+Homepage: https://ichitaso.com
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
